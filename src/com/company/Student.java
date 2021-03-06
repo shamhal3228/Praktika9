@@ -13,6 +13,9 @@ public class Student {
     {
         this.FIO=FIO;
         this.id=id;
+        System.out.print("Hello world");
+        System.out.print("Hello world");
+        System.out.print("Hello world");
     }
 
     public int getId()
